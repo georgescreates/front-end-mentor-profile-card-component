@@ -73,7 +73,7 @@ body .circles-svg
     min-height: 140px;
 
     border-radius: 15px 15px 0px 0px;
-    background-image: url(../design/bg-pattern-card.svg);
+    background-image: url(bg-pattern-card.svg);
 }
 
 .card-body
